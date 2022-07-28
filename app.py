@@ -245,5 +245,5 @@ def show_sentence(word, i, count):
     i += 1
     return word, i, count
 
-print("Welcome to 28 days words learning app. \n")
+print("Welcome to 28 days words learning app. This app is based on the Anton Brejestovski's word  learning method. \n")
 initial_menu()
